@@ -25,5 +25,6 @@ flutter pub get
 flutter run
 ```
 
+![screenshot](ss1.png)
 
 Credits: [Notion](https://x.com/NotionHQ/status/1876683661158023440)
